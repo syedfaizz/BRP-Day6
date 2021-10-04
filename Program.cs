@@ -1,5 +1,5 @@
 ﻿using System;
-class GFG
+class Program
 {
     public static void Main(string[] args)
     {
